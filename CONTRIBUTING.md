@@ -19,7 +19,7 @@ Abre un **Issue** en GitHub con:
 
 ## Áreas donde se agradecen contribuciones
 
-- Resultados con modelos no probados (GPT-5, GPT-4o, Gemini)
+- Resultados con modelos no probados (GPT-5, GPT-4o, etc)
 - Escenarios adicionales (jerarquías, perspectivas, calculation groups)
 - Experiencia con Power BI Desktop o archivos PBIP en lugar de Fabric
 - Hallazgos con versiones más recientes del MCP (actualmente v0.4.0)

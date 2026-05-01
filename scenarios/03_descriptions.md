@@ -1,4 +1,4 @@
-# Escenario 03 — Agregar Descripciones
+# Escenario 03 - Agregar Descripciones
 
 ## Valor
 
@@ -32,4 +32,4 @@ Con **Sonnet**: aplica ambas correctamente. Tarda más pero cubre todo.
 Fabric → SalesModel → selecciona una columna → verifica campo **Description** en propiedades.
 
 ---
-👉 [Escenario 04 — Medidas DAX](04_dax_measures.md)
+👉 [Escenario 04 - Medidas DAX](04_dax_measures.md)

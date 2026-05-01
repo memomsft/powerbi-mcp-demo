@@ -118,13 +118,15 @@ powerbi-mcp-demo/
 | Conectar al modelo | ✅ | ✅ | ✅ |
 | Crear relaciones | ✅ | ✅ | ✅ |
 | Descripciones de tablas | ✅ | ✅ | ✅ |
-| Descripciones de columnas | ⚠️ Falla | ⚠️ Falla | ✅ |
-| Crear medidas DAX | ⚠️ Falla | ✅ | ✅ |
+| Descripciones de columnas | ⚠️ | ⚠️ | ✅ |
+| Crear medidas DAX | ⚠️ | ✅ | ✅ |
 | Medidas en Display Folders | ❌ | ❌ | ✅ |
-| Best practices completo | ⚠️ Parcial | ⚠️ Parcial | ✅ |
-| Documentar + guardar .md | ⚠️ Sin guardar | ⚠️ Sin guardar | ✅ |
-| RLS + recomendaciones | ❌ Copilot Free | — | ✅ |
+| Best practices completo | ⚠️ | ⚠️ | ✅ |
+| Documentar + guardar .md | ⚠️ | ⚠️ | ✅ |
+| RLS + recomendaciones | ❌ | — | ✅ |
 | DAX query Remote MCP | ✅ | ✅ | ✅ |
+
+✅ Funciona correctamente · ⚠️ Funciona parcialmente · ❌ No disponible · — No probado
 
 > 💡 **Recomendación:** Usar **Claude Sonnet** o **GPT-5** para mejores resultados. Microsoft lo indica explícitamente en la documentación oficial.
 

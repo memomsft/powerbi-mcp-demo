@@ -1,12 +1,12 @@
-# Escenario 07 — DAX Query en Lenguaje Natural (Remote MCP)
+# Escenario 07 - DAX Query en Lenguaje Natural (Remote MCP)
 
 ## Pre-requisito
 
-Remote MCP conectado y tenant setting habilitado — ver [Setup 02](../setup/02_claude_code.md) o [Setup 03](../setup/03_github_copilot.md).
+Remote MCP conectado y tenant setting habilitado : ver [Setup 02](../setup/02_claude_code.md) o [Setup 03](../setup/03_github_copilot.md).
 
 ## Valor
 
-Consultar datos del modelo sin escribir DAX — el Remote MCP genera y ejecuta la query automáticamente y explica los resultados.
+Consultar datos del modelo sin escribir DAX, el Remote MCP genera y ejecuta la query automáticamente y explica los resultados.
 
 ## Opción A — Prompt built-in (recomendado)
 
@@ -31,4 +31,4 @@ Tabla con datos reales + análisis explicativo del agente.
 `GetSemanticModelSchema` → `GenerateDAXQuery` → `ExecuteDAXQuery`
 
 ---
-👉 [Escenario 08 — RLS](08_rls.md)
+👉 [Escenario 08 - RLS](08_rls.md)

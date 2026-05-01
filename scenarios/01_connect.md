@@ -1,4 +1,4 @@
-# Escenario 01 — Conectar al Semantic Model
+# Escenario 01 - Conectar al Semantic Model
 
 ## Prompt
 
@@ -22,4 +22,4 @@ in the Fabric workspace 'powerbi-mcp-demo'.
 `connection_operations`
 
 ---
-👉 [Escenario 02 — Crear relaciones](02_relationships.md)
+👉 [Escenario 02 - Crear relaciones](02_relationships.md)

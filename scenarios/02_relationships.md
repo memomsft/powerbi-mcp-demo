@@ -1,4 +1,4 @@
-# Escenario 02 — Crear Relaciones
+# Escenario 02 - Crear Relaciones
 
 ## Valor
 
@@ -27,4 +27,4 @@ Create the following relationships in the model:
 Fabric → SalesModel → **Model view** → confirma las 3 relaciones.
 
 ---
-👉 [Escenario 03 — Descripciones](03_descriptions.md)
+👉 [Escenario 03 - Descripciones](03_descriptions.md)

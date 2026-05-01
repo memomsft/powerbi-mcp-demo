@@ -8,7 +8,7 @@ Repositorio de exploración de las capacidades del [Power BI Modeling MCP Server
 
 ## ¿Qué es el Power BI Modeling MCP?
 
-El Power BI Modeling MCP Server implementa el [Model Context Protocol](https://modelcontextprotocol.io) para crear una conexión entre agentes de AI y semantic models de Power BI. Permite a desarrolladores interactuar con modelos en lenguaje natural — desde crear relaciones y medidas DAX hasta configurar RLS y generar documentación completa del modelo.
+El Power BI Modeling MCP Server implementa el [Model Context Protocol](https://modelcontextprotocol.io) para crear una conexión entre agentes de AI y semantic models de Power BI. Permite a desarrolladores interactuar con modelos en lenguaje natural, desde crear relaciones y medidas DAX hasta configurar RLS y generar documentación completa del modelo.
 
 > 💡 Este ejercicio usa **Microsoft Fabric** (cloud), pero el MCP también soporta **Power BI Desktop** y archivos **PBIP** locales.
 

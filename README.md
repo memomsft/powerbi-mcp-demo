@@ -58,7 +58,7 @@ flowchart TD
 
 ---
 
-## Flujo del demo
+## Flujo del ejercicio
 
 ```mermaid
 flowchart TD
@@ -71,12 +71,11 @@ flowchart TD
     E3 --> E4[04 · Medidas DAX]
     E4 --> E5[05 · Best practices]
     E5 --> E6[06 · Documentación .md]
-    E6 --> F[MCP Remote Server]
-    F --> E7[07 · DAX en lenguaje natural]
-    E2 --> E8[08 · RLS + recomendaciones]
+    E6 --> E7[07 · DAX en lenguaje natural\nRemote MCP]
+    E7 --> E8[08 · RLS + recomendaciones]
 
     style D fill:#0078D4,color:#fff
-    style F fill:#0078D4,color:#fff
+    style E7 fill:#107C10,color:#fff
     style C fill:#F2C811,color:#000
 ```
 

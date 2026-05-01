@@ -1,4 +1,4 @@
-# Escenario 06 — Documentar el Modelo
+# Escenario 06 - Documentar el Modelo
 
 ## Valor
 
@@ -32,4 +32,4 @@ Con GitHub Copilot: copia el contenido del chat y guarda como `SalesModel-docume
 - **GitHub**: el `.md` se renderiza automáticamente incluyendo el diagrama Mermaid
 
 ---
-👉 [Escenario 07 — DAX Query Remote MCP](07_remote_dax_query.md)
+👉 [Escenario 07 - DAX Query Remote MCP](07_remote_dax_query.md)

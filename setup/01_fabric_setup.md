@@ -1,4 +1,4 @@
-# Setup 01 — Microsoft Fabric: Lakehouse y Semantic Model
+# Setup 01 - Microsoft Fabric: Lakehouse y Semantic Model
 
 ## Objetivo
 

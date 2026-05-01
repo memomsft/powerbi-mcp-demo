@@ -1,8 +1,8 @@
-# Power BI Modeling MCP — Demo Exploratorio
+# Power BI Modeling MCP - Demo Exploratorio
 
 Repositorio de exploración de las capacidades del [Power BI Modeling MCP Server](https://github.com/microsoft/powerbi-modeling-mcp) de Microsoft, conectado a un Semantic Model en Microsoft Fabric usando lenguaje natural desde VS Code.
 
-> ⚠️ **Public Preview** — Este MCP está en Public Preview. Las capacidades pueden cambiar antes del GA.
+> ⚠️ **Public Preview** : Este MCP está en Public Preview. Las capacidades pueden cambiar antes del GA.
 
 ---
 

@@ -1,4 +1,4 @@
-# Escenario 05 — Best Practices Analyzer
+# Escenario 05 - Best Practices Analyzer
 
 ## Valor
 
@@ -34,4 +34,4 @@ Con **Sonnet**: aplica todos los fixes correctamente incluyendo column-level.
 Fabric → SalesModel → verifica columnas con ícono de ojo tachado y DimDate marcada como Date Table.
 
 ---
-👉 [Escenario 06 — Documentación](06_documentation.md)
+👉 [Escenario 06 - Documentación](06_documentation.md)

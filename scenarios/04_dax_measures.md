@@ -1,4 +1,4 @@
-# Escenario 04 — Crear Medidas DAX
+# Escenario 04 - Crear Medidas DAX
 
 ## Valor
 
@@ -33,4 +33,4 @@ Con **Sonnet**: además organiza las medidas en Display Folders automáticamente
 Fabric → SalesModel → panel de datos → expande `factsales` → verifica las 4 medidas en su carpeta.
 
 ---
-👉 [Escenario 05 — Best Practices](05_best_practices.md)
+👉 [Escenario 05 - Best Practices](05_best_practices.md)

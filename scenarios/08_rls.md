@@ -1,4 +1,4 @@
-# Escenario 08 — Row Level Security (RLS)
+# Escenario 08 - Row Level Security (RLS)
 
 ## Pre-requisito
 
@@ -26,9 +26,9 @@ El MCP crea el rol `RegionFilter` con el filtro DAX:
 ```
 
 Y provee un plan de implementación:
-1. **Asignar miembros** — en Fabric workspace → semantic model settings → asignar usuarios o grupos al rol
-2. **Mapear Region a UPNs** — los valores de Region deben coincidir con los emails de los usuarios, o crear una mapping table
-3. **Probar el rol** — usar "View as role" en Fabric para validar antes de asignar a producción
+1. **Asignar miembros** : en Fabric workspace → semantic model settings → asignar usuarios o grupos al rol
+2. **Mapear Region a UPNs** : los valores de Region deben coincidir con los emails de los usuarios, o crear una mapping table
+3. **Probar el rol** : usar "View as role" en Fabric para validar antes de asignar a producción
 
 ## ⚠️ Consideración de datos
 

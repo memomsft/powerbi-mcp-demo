@@ -143,7 +143,7 @@ powerbi-mcp-demo/
 
 👉 **Paso 1:** [Setup de Fabric](setup/01_fabric_setup.md)
 
-👉 **Paso 2 — Elige tu cliente:**
+👉 **Paso 2 - Elige tu cliente:**
 - [Claude Code](setup/02_claude_code.md) ← Recomendado
 - [GitHub Copilot](setup/03_github_copilot.md)
 

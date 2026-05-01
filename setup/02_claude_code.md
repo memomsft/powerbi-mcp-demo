@@ -139,4 +139,4 @@ claude
 
 ## Siguiente paso
 
-👉 [Escenario 01 — Conectar al modelo](../scenarios/01_connect.md)
+👉 [Escenario 01 - Conectar al modelo](../scenarios/01_connect.md)

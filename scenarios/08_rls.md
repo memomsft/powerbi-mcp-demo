@@ -46,7 +46,6 @@ Para producción se requiere una **mapping table** `UserRegion`:
 `security_role_operations`
 
 ---
----
 
 ## ✅ Tarea completada
 

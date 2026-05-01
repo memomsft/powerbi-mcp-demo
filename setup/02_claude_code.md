@@ -21,7 +21,7 @@
 
 ---
 
-## Paso 1 — Instalar la extensión de VS Code
+## Paso 1 - Instalar la extensión de VS Code
 
 Esta extensión instala el ejecutable del MCP localmente en tu máquina.
 

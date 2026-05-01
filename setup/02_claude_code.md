@@ -1,4 +1,4 @@
-# Setup 02 — Claude Code (Recomendado)
+# Setup 02 - Claude Code (Recomendado)
 
 ## ¿Por qué Claude Code?
 
@@ -15,7 +15,7 @@
 ## Requisitos
 
 - [VS Code](https://code.visualstudio.com/download) instalado
-- [Node.js LTS](https://nodejs.org) instalado — verifica con `node -v`
+- [Node.js LTS](https://nodejs.org) instalado, verifica con `node -v`
 - Cuenta de [Claude](https://claude.ai) (cualquier plan)
 - Extensión **Power BI Modeling MCP** instalada en VS Code (ver paso 1)
 
@@ -33,7 +33,7 @@ Esta extensión instala el ejecutable del MCP localmente en tu máquina.
 
 ---
 
-## Paso 2 — Instalar Claude Code
+## Paso 2 - Instalar Claude Code
 
 ```bash
 npm install -g @anthropic-ai/claude-code
@@ -47,7 +47,7 @@ claude --version
 
 ---
 
-## Paso 3 — Localizar el ejecutable del MCP
+## Paso 3 - Localizar el ejecutable del MCP
 
 La extensión de VS Code instala el ejecutable localmente. Encuéntralo con:
 
@@ -67,7 +67,7 @@ C:\Users\<YOUR_USERNAME>\.vscode\extensions\analysis-services.powerbi-modeling-m
 
 ---
 
-## Paso 4 — Configurar el MCP en Claude Code
+## Paso 4 - Configurar el MCP en Claude Code
 
 El archivo de configuración de Claude Code es `~/.claude.json`. Ábrelo:
 
@@ -101,7 +101,7 @@ Dentro del archivo, busca la sección `"projects"` y agrega `"mcpServers"` al pr
 
 ---
 
-## Paso 5 — Habilitar el Remote MCP en Fabric (admin)
+## Paso 5 - Habilitar el Remote MCP en Fabric (admin)
 
 El Remote MCP requiere habilitación por un admin del tenant:
 
@@ -113,7 +113,7 @@ El Remote MCP requiere habilitación por un admin del tenant:
 
 ---
 
-## Paso 6 — Verificar la conexión
+## Paso 6 - Verificar la conexión
 
 1. Abre una terminal en VS Code (`Ctrl+` ` `)
 2. Navega a tu carpeta de trabajo:

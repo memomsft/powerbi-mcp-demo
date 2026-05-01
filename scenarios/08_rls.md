@@ -46,6 +46,13 @@ Para producción se requiere una **mapping table** `UserRegion`:
 `security_role_operations`
 
 ---
-✅ Has completado todos los escenarios del demo.
+---
 
-👉 Revisa el [README principal](../README.md#resultados-por-modelo) para el resumen completo de hallazgos.
+## ✅ Tarea completada
+
+Has ejecutado los 8 escenarios del ejercicio exploratorio. 
+
+**Próximos pasos sugeridos:**
+- Revisa la [tabla de resultados por modelo](../README.md#resultados-por-modelo) y compara con tu experiencia
+- Explora los [prompts adicionales](../prompts/prompts.md#prompts-adicionales-para-explorar) para seguir experimentando
+- ¿Encontraste algo diferente? Abre un [Issue](../../issues) o revisa cómo [contribuir](../CONTRIBUTING.md)

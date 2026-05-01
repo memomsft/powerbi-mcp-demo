@@ -98,6 +98,10 @@ Dentro del archivo, busca la sección `"projects"` y agrega `"mcpServers"` al pr
 
 > ⚠️ Reemplaza `<YOUR_USERNAME>` y `<VERSION>` con tus valores reales.
 > ⚠️ Usa doble backslash `\\` en los paths de Windows dentro de JSON.
+> ⚠️ Si editaste `~/.claude.json` usando PowerShell `ConvertTo-Json`, 
+> el archivo puede quedar con `\\\\` en lugar de `\\` en los paths. 
+> Ambos funcionan correctamente — no es necesario corregirlo.
+> Si editas el archivo manualmente en VS Code, usa `\\` simple.
 
 ---
 

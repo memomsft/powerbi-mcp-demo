@@ -1,0 +1,11 @@
+CustomerKey,CustomerCode,CustomerName,Segment,Country,City,Email,RegisterDate
+1,CUST001,Empresa Alpha,Corporate,Mexico,CDMX,alpha@email.com,2022-01-15
+2,CUST002,Empresa Beta,Corporate,Mexico,Monterrey,beta@email.com,2022-03-20
+3,CUST003,Juan Pérez,Retail,Mexico,Guadalajara,juan@email.com,2022-06-10
+4,CUST004,Empresa Gamma,Corporate,Colombia,Bogotá,gamma@email.com,2022-08-05
+5,CUST005,María López,Retail,Mexico,CDMX,maria@email.com,2023-01-12
+6,CUST006,Empresa Delta,SMB,Mexico,Monterrey,delta@email.com,2023-02-28
+7,CUST007,Carlos Ruiz,Retail,Colombia,Medellín,carlos@email.com,2023-04-15
+8,CUST008,Empresa Epsilon,Corporate,Mexico,CDMX,epsilon@email.com,2023-06-01
+9,CUST009,Ana Torres,Retail,Mexico,Puebla,ana@email.com,2023-09-20
+10,CUST010,Empresa Zeta,SMB,Colombia,Bogotá,zeta@email.com,2024-01-08

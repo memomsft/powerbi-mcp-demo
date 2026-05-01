@@ -1,0 +1,11 @@
+ProductKey,ProductCode,ProductName,Category,SubCategory,UnitPrice,UnitCost,Brand,IsActive
+1,PRD001,Laptop Pro 15,Electronics,Computers,1299.99,750.00,TechBrand,1
+2,PRD002,Wireless Mouse,Electronics,Peripherals,29.99,12.00,TechBrand,1
+3,PRD003,Mechanical Keyboard,Electronics,Peripherals,89.99,40.00,TechBrand,1
+4,PRD004,27in Monitor,Electronics,Displays,349.99,180.00,ViewMax,1
+5,PRD005,USB-C Hub,Electronics,Accessories,49.99,20.00,TechBrand,1
+6,PRD006,Office Chair,Furniture,Seating,299.99,140.00,ComfortPlus,1
+7,PRD007,Standing Desk,Furniture,Desks,599.99,280.00,ComfortPlus,1
+8,PRD008,Webcam HD,Electronics,Peripherals,79.99,35.00,ViewMax,1
+9,PRD009,Headset Pro,Electronics,Audio,119.99,55.00,SoundWave,1
+10,PRD010,Notebook A4 Pack,Office Supplies,Stationery,12.99,5.00,OfficeBasics,1

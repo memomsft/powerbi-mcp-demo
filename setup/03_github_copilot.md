@@ -1,4 +1,4 @@
-# Setup 03 — GitHub Copilot
+# Setup 03 - GitHub Copilot
 
 ## Requisitos
 
@@ -11,7 +11,7 @@
 
 ---
 
-## Paso 1 — Instalar extensiones en VS Code
+## Paso 1 - Instalar extensiones en VS Code
 
 1. Abre VS Code → Extensions (`Ctrl+Shift+X`)
 2. Instala:
@@ -24,7 +24,7 @@
 
 ---
 
-## Paso 2 — Verificar el MCP en Copilot
+## Paso 2 - Verificar el MCP en Copilot
 
 1. Abre Copilot Chat (`Ctrl+Shift+I`)
 2. Cambia a modo **Agent** (dropdown en el input)
@@ -35,7 +35,7 @@
 
 ---
 
-## Paso 3 — Seleccionar el modelo correcto
+## Paso 3 - Seleccionar el modelo correcto
 
 Para mejores resultados selecciona **Claude Sonnet 4.5** o superior:
 
@@ -47,7 +47,7 @@ Para mejores resultados selecciona **Claude Sonnet 4.5** o superior:
 
 ---
 
-## Paso 4 — Configurar el Remote MCP
+## Paso 4 - Configurar el Remote MCP
 
 1. Abre la paleta de comandos (`Ctrl+Shift+P`)
 2. Busca: `MCP: Open User Configuration`
@@ -83,4 +83,4 @@ Para mejores resultados selecciona **Claude Sonnet 4.5** o superior:
 
 ## Siguiente paso
 
-👉 [Escenario 01 — Conectar al modelo](../scenarios/01_connect.md)
+👉 [Escenario 01 - Conectar al modelo](../scenarios/01_connect.md)

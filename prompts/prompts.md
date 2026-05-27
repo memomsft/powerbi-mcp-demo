@@ -3,6 +3,7 @@
 Referencia rápida de todos los prompts del ejercicio, listos para copiar.
 
 > 💡 Usa inglés — el MCP fue diseñado en inglés y los resultados son más precisos.
+
 > 💡 Prompts también disponibles en español: [prompts_es.md](prompts_es.md)
 
 ---

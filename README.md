@@ -101,6 +101,7 @@ powerbi-mcp-demo/
 │   └── 08_rls.md
 ├── prompts/
 │   └── prompts.md                ← Todos los prompts validados
+|   └── prompts en español        ← Todos los prompts en español validados
 └── data/
     ├── FactSales.csv
     ├── DimProduct.csv
@@ -124,6 +125,7 @@ powerbi-mcp-demo/
 | Documentar + guardar .md | ⚠️ | ⚠️ | ✅ |
 | RLS + recomendaciones | ❌ | — | ✅ |
 | DAX query Remote MCP | ✅ | ✅ | ✅ |
+| Prompts en español | — | — | ✅ |
 
 ✅ Funciona correctamente · ⚠️ Funciona parcialmente · ❌ No disponible · — No probado
 
